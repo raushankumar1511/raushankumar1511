@@ -1,9 +1,9 @@
 <table>
   <tr>
-    <td><img src="https://img.shields.io/badge/DSA-007ACC?style=for-the-badge&logo=java&logoColor=white" width="300" /></td>
-    <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" width="300" /></td>
-    <td><img src="https://img.shields.io/badge/MERN-00BFAE?style=for-the-badge&logo=mern&logoColor=white" width="300" /></td>
-    <td><img src="https://img.shields.io/badge/Leetcode-00BFAE?style=for-the-badge&logo=Leetcode&logoColor=white" width="300" /></td>
+    <td><img src="https://img.shields.io/badge/DSA-007ACC?style=for-the-badge&logo=java&logoColor=white" width="200" /></td>
+    <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" width="200" /></td>
+    <td><img src="https://img.shields.io/badge/MERN-00BFAE?style=for-the-badge&logo=mern&logoColor=white" width="200" /></td>
+    <td><img src="https://img.shields.io/badge/Leetcode-00BFAE?style=for-the-badge&logo=Leetcode&logoColor=white" width="200" /></td>
   </tr>
 </table>
 
@@ -47,9 +47,3 @@ src="https://img.shields.io/github/followers/SyedMoin-lab?logo=github&style=for-
 <a href="https://github.com/raushankumar1511" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushankumar1511&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/zcxean3jss"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
