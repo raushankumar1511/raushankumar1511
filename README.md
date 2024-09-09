@@ -3,7 +3,7 @@
     <td><img src="https://img.shields.io/badge/DSA-007ACC?style=for-the-badge&logo=java&logoColor=white" width="200" /></td>
     <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" width="200" /></td>
     <td><img src="https://img.shields.io/badge/MERN-00BFAE?style=for-the-badge&logo=mern&logoColor=white" width="200" /></td>
-    <td><img src="https://img.shields.io/badge/Leetcode-00BFAE?style=for-the-badge&logo=Leetcode&logoColor=white" width="200" /></td>
+    <td><a src"https://leetcode.com/u/raushankrsharma1011/"><img src="https://img.shields.io/badge/Leetcode-00BFAE?style=for-the-badge&logo=Leetcode&logoColor=white" width="200" /></a></td>
   </tr>
 </table>
 
