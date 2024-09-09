@@ -1,24 +1,14 @@
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/DSA-007ACC?style=for-the-badge&logo=java&logoColor=white" width="200" /></td>
-    <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" width="200" /></td>
-    <td><img src="https://img.shields.io/badge/MERN-00BFAE?style=for-the-badge&logo=mern&logoColor=white" width="200" /></td>
-    <td><a src"https://leetcode.com/u/raushankrsharma1011/"><img src="https://img.shields.io/badge/Leetcode-00BFAE?style=for-the-badge&logo=Leetcode&logoColor=white" width="200" /></a></td>
-  </tr>
-</table>
-
-
 Hi 👋 My name is Raushan Sharma
 ==============================
 
 ![](https://komarev.com/ghpvc/?username=raushankumar1511)
 
-* 🌍  I'm based in Harayana, Gurgaon, India
+* 🌍  I'm from Aurangabad, Bihar currenly lives in Gurgaon.
 * ✉  You can contact me at [raushankrsharma1011@gmail.com](mailto:raushankrsharma1011@gmail.com)
-* 🧠  I'm learning Next.js, DSA, AI and Much More.
+* 🧠  I'm learning MERN Stack, Cloud and much more.
 
-<a href="https://www.github.com/SyedMoin-lab" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/SyedMoin-lab?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/raushankumar1511" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/raushankumar1511?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Tools & Technologies
 ![DSA](https://img.shields.io/badge/DSA-007ACC?style=for-the-badge&logo=python&logoColor=white)
@@ -38,12 +28,10 @@ src="https://img.shields.io/github/followers/SyedMoin-lab?logo=github&style=for-
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/raushankumar1511" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/raushankumar1511/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/raushankumar1511" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/raushankumar1511/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a><a href="https://www.leetcode.com/u/raushankrsharma1011/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/leetcode.dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/leetcode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/leetcode.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
 <a href="https://github.com/raushankumar1511" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushankumar1511&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
